@@ -1,6 +1,6 @@
 # simple-timer
 A simple timer that contains a start, pause, and reset buttons. 
-This was written using programming only, ignoring the given storyboard, to cut down development time.
+This was written programmatically.
 
 Motivation: 
 A timer is an easy first project for someone beginning to learn Swift.
